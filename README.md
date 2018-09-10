@@ -93,7 +93,7 @@ Please contact Snipa at: proxy_installs@snipanet.com or via IRC on irc.freenode.
 
 ## Known Working Pools
 
-*[Hostxmr.com  ](https://hostxmr.com)
+* [Hostxmr.com  ](https://hostxmr.com)
 * [XMRPool.net](https://xmrpool.net)
 * [supportXMR.com](https://supportxmr.com)
 * [pool.xmr.pt](https://pool.xmr.pt)
